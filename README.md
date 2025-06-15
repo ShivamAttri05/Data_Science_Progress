@@ -11,8 +11,8 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 ### 🔹 Python Fundamentals
 - [x] Getting Started  
 - [x] Python Programming Language  
-- [ ] Python Control Flow  
-- [ ] Inbuilt Data Structures in Python  
+- [x] Python Control Flow  
+- [x] Inbuilt Data Structures in Python  
 - [ ] Functions in Python  
 - [ ] Function Practice Questions  
 - [ ] Inbuilt Data Structure Practice Questions  
