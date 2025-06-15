@@ -87,7 +87,7 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 
 ### 📌 Notes:
 - Daily commits will include Jupyter notebooks, project files, and notes.
-- You can follow my learning journey [on LinkedIn](#) for daily updates.
+- You can follow my learning journey [on LinkedIn](https://www.linkedin.com/in/shivam-attri-bb55862a6/) for daily updates.
 
 ---
 
