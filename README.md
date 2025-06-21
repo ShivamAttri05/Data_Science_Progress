@@ -13,12 +13,12 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Python Programming Language  
 - [x] Python Control Flow  
 - [x] Inbuilt Data Structures in Python  
-- [ ] Functions in Python  
-- [ ] Function Practice Questions  
-- [ ] Inbuilt Data Structure Practice Questions  
-- [ ] Importing, Creating Modules and Packages  
-- [ ] File Handling in Python  
-- [ ] Exception Handling in Python  
+- [x] Functions in Python  
+- [x] Function Practice Questions  
+- [x] Inbuilt Data Structure Practice Questions  
+- [x] Importing, Creating Modules and Packages  
+- [x] File Handling in Python  
+- [x] Exception Handling in Python  
 - [ ] OOP Concepts with Classes and Objects  
 - [ ] Advanced Python  
 - [ ] Working with SQLite  
