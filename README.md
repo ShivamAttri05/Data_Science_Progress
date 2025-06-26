@@ -19,8 +19,8 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Importing, Creating Modules and Packages  
 - [x] File Handling in Python  
 - [x] Exception Handling in Python  
-- [ ] OOP Concepts with Classes and Objects  
-- [ ] Advanced Python  
+- [x] OOP Concepts with Classes and Objects  
+- [x] Advanced Python  
 - [ ] Working with SQLite  
 - [ ] Logging in Python  
 - [ ] Python Multithreading and Multiprocessing  
