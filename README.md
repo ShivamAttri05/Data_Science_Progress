@@ -21,6 +21,7 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Exception Handling in Python  
 - [x] OOP Concepts with Classes and Objects  
 - [x] Advanced Python  
+- [ ] Data Analysis With Python
 - [ ] Working with SQLite  
 - [ ] Logging in Python  
 - [ ] Python Multithreading and Multiprocessing  
