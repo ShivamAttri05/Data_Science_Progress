@@ -1,0 +1,5 @@
+01-07-25 15:38:41-root-DEBUG-This is a debug message
+01-07-25 15:38:41-root-INFO-This is a info message
+01-07-25 15:38:41-root-WARNING-This is a warning message
+01-07-25 15:38:41-root-ERROR-This is a error message
+01-07-25 15:38:41-root-CRITICAL-This is a critical message
