@@ -1,0 +1,6 @@
+2025-19-07/01/25 18:19:18 - Arithmetic - ERROR - Division by zero error
+2025-19-07/01/25 18:19:45 - Arithmetic - ERROR - Division by zero error
+2025-20-07/01/25 18:20:14 - Arithmetic - DEBUG - adding 10 + 5 = 15
+2025-20-07/01/25 18:20:14 - Arithmetic - DEBUG - subtracting 10 - 5 = 5
+2025-20-07/01/25 18:20:14 - Arithmetic - DEBUG - multiplying 10 * 10 = 100
+2025-20-07/01/25 18:20:14 - Arithmetic - ERROR - Division by zero error
