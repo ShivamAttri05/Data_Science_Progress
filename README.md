@@ -24,12 +24,12 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Data Analysis With Python
 - [x] Working with SQLite  
 - [x] Logging in Python  
-- [ ] Python Multithreading and Multiprocessing  
-- [ ] Memory Management in Python  
+- [x] Python Multithreading and Multiprocessing  
+- [x] Memory Management in Python  
 
 ### 🔹 Web Frameworks
-- [ ] Getting Started with Flask Framework  
-- [ ] Getting Started with Streamlit Web Framework  
+- [x] Getting Started with Flask Framework  
+- [x] Getting Started with Streamlit Web Framework  
 
 ### 🔹 Statistics & Probability
 - [ ] Getting Started with Statistics  
