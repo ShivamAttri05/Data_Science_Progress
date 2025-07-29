@@ -32,9 +32,9 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Getting Started with Streamlit Web Framework  
 
 ### 🔹 Statistics & Probability
-- [ ] Getting Started with Statistics  
-- [ ] Introduction to Probability  
-- [ ] Probability Distribution Function for Data  
+- [x] Getting Started with Statistics  
+- [x] Introduction to Probability  
+- [x] Probability Distribution Function for Data  
 - [ ] Inferential Statistics  
 
 ### 🔹 Data Preparation
