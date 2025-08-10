@@ -35,7 +35,7 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Getting Started with Statistics  
 - [x] Introduction to Probability  
 - [x] Probability Distribution Function for Data  
-- [ ] Inferential Statistics  
+- [x] Inferential Statistics  
 
 ### 🔹 Data Preparation
 - [ ] Feature Engineering  
