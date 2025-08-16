@@ -38,7 +38,7 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Inferential Statistics  
 
 ### 🔹 Data Preparation
-- [ ] Feature Engineering  
+- [x] Feature Engineering  
 - [ ] Exploratory Data Analysis and Feature Engineering  
 
 ### 🔹 Machine Learning
