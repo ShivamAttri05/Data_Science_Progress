@@ -39,7 +39,7 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 
 ### 🔹 Data Preparation
 - [x] Feature Engineering  
-- [ ] Exploratory Data Analysis and Feature Engineering  
+- [x] Exploratory Data Analysis and Feature Engineering  
 
 ### 🔹 Machine Learning
 - [ ] Introduction to Machine Learning  
