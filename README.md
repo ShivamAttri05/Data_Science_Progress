@@ -42,9 +42,9 @@ I’ll be committing and updating this regularly as I complete each topic and pr
 - [x] Exploratory Data Analysis and Feature Engineering  
 
 ### 🔹 Machine Learning
-- [ ] Introduction to Machine Learning  
-- [ ] Linear Regression: In-depth Intuition and Practical  
-- [ ] Ridge, Lasso, and Elastic Net Algorithms  
+- [x] Introduction to Machine Learning  
+- [x] Linear Regression: In-depth Intuition and Practical  
+- [x] Ridge, Lasso, and Elastic Net Algorithms  
 - [ ] Project: Life Cycle of ML Projects (Step by Step)  
 - [ ] Logistic Regression  
 - [ ] Support Vector Machines  
